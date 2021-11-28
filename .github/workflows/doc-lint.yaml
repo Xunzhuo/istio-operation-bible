@@ -1,4 +1,4 @@
-name: Doc Lint
+name: 📕 Doc Lint
 
 on:
   pull_request:
